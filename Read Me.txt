@@ -1,0 +1,26 @@
+Follow The Steps to Install and Use Of Application:-
+
+1.From ASSBTET SB7 open Debug folder
+2.Select Setup File and Run The Application
+3.After Successfull Installation
+
+Using:-
+1.At Authentication page- for
+	 (i)Faculty Login-
+			Username: faculty
+			Password: 1234567
+
+	(ii)Student Login-
+			Pin No: Student
+			Password: 1234567
+
+	(iii) Or Click On Guest at Bootom of the page
+2.SBTET Page:-
+		There you Can Get Direct links to Informative Sites from
+		Menu bar. 
+		That Will Redirect to the site By Default Broswer
+
+
+
+
+			----THANK YOU----
